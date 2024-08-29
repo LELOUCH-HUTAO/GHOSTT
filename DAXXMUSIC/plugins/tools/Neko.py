@@ -19,7 +19,7 @@ async def get_waifu(client, message):
     up = response.get('url')
 
     if up:
-        button = [[InlineKeyboardButton("SUPPORT", url="https://t.me/naruto_support1")]]
+        button = [[InlineKeyboardButton("SUPPORT", url="https://t.me/beasts_bot_support")]]
         markup = InlineKeyboardMarkup(button)
         
         sent_message = await message.reply_photo(up, caption="BY @hu_tao_xbot ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ ɪɴ 30 ꜱᴇᴄᴏɴᴅ")
