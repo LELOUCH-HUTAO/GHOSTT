@@ -14,8 +14,8 @@ from DAXXMUSIC.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="bro owner inzuka is my master",
-            url=f"https://t.me/naruto_support1",
+            text="wanna make new friend click here",
+            url=f"https://t.me/Beasts_Community",
         ),
     ],
 ]
