@@ -30,11 +30,11 @@ from strings import get_string
 
 NEXI_VID = [
 "https://telegra.ph/file/c70bcf81ed76f2da5c31a.mp4",
+"https://graph.org/file/287a37130df86a6a40739.mp4",
+"https://graph.org/file/5e49bd2f443dacf89d872.mp4",
 "https://telegra.ph/file/c70bcf81ed76f2da5c31a.mp4",
-"https://telegra.ph/file/c70bcf81ed76f2da5c31a.mp4",
-"https://telegra.ph/file/c70bcf81ed76f2da5c31a.mp4",
-"https://telegra.ph/file/c70bcf81ed76f2da5c31a.mp4",
-"https://telegra.ph/file/c70bcf81ed76f2da5c31a.mp4",
+"https://graph.org/file/f949447c50f8faa10d796.mp4",
+"https://graph.org/file/287a37130df86a6a40739.mp4",
 "https://telegra.ph/file/c70bcf81ed76f2da5c31a.mp4",
 
 ]
